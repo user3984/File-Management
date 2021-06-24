@@ -414,12 +414,12 @@ namespace FileManagement
         // 向文件中写磁盘数据
         public void WriteDisk()
         {
-            StreamWriter w = new StreamWriter(new FileStream(Application.StartupPath + "\\disk.dat", FileMode.Create));
+            BinaryWriter bw = new BinaryWriter(new FileStream(Application.StartupPath + "\\disk.dat", FileMode.Create));
             for (int i = 0; i < this.blockNum; ++i)
             {
-                w.WriteLine(block[i]);
+                bw.Write(block[i]);
             }
-            w.Close();
+            bw.Close();
         }
 
         // 向文件中写FAT数据
@@ -438,12 +438,12 @@ namespace FileManagement
         // 从文件中读磁盘数据
         public void ReadDisk()
         {
-            StreamReader w = new StreamReader(new FileStream(Application.StartupPath + "\\disk.dat", FileMode.Open));
+            BinaryReader br = new BinaryReader(new FileStream(Application.StartupPath + "\\disk.dat", FileMode.Open));
             for (int i = 0; i < this.blockNum; ++i)
             {
-                this.block[i] = w.ReadLine();
+                this.block[i] = br.ReadString();
             }
-            w.Close();
+            br.Close();
         }
 
         // 从文件中读FAT数据
