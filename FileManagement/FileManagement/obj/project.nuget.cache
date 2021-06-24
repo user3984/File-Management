@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6wwNi2Ugbl9Q9oK2thxqcsb3hdMioszDbigxG1sczDW3IP+jrnHraUxmdwxX/iv2HhD8T88KmCc3k7Onz3/5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\22872\\source\\repos\\FileManagement\\FileManagement\\FileManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\22872\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

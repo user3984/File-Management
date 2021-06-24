@@ -1,0 +1,16 @@
+C:\Users\22872\source\repos\FileManagement\FileManagement\bin\Debug\netcoreapp3.1\FileManagement.exe
+C:\Users\22872\source\repos\FileManagement\FileManagement\bin\Debug\netcoreapp3.1\FileManagement.deps.json
+C:\Users\22872\source\repos\FileManagement\FileManagement\bin\Debug\netcoreapp3.1\FileManagement.runtimeconfig.json
+C:\Users\22872\source\repos\FileManagement\FileManagement\bin\Debug\netcoreapp3.1\FileManagement.runtimeconfig.dev.json
+C:\Users\22872\source\repos\FileManagement\FileManagement\bin\Debug\netcoreapp3.1\FileManagement.dll
+C:\Users\22872\source\repos\FileManagement\FileManagement\bin\Debug\netcoreapp3.1\FileManagement.pdb
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.csprojAssemblyReference.cache
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.Form1.resources
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.csproj.GenerateResource.cache
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.AssemblyInfoInputs.cache
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.AssemblyInfo.cs
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.dll
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.pdb
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.genruntimeconfig.cache
+C:\Users\22872\source\repos\FileManagement\FileManagement\obj\Debug\netcoreapp3.1\FileManagement.Properties.Resources.resources
